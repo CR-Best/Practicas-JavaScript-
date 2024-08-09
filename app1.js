@@ -28,3 +28,7 @@ function btnSuma(){
     alert(`El resultado de ${num1} más ${num2} es: ${suma}`)
     
 }
+
+// prueba
+let texto = "Este es un texto";
+console.log(texto);
