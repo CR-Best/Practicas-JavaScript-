@@ -30,5 +30,5 @@ function btnSuma(){
 }
 
 // prueba
-let texto = "Este es un texto";
+let texto = "Este es un texto de prueba para ver los cambios en github";
 console.log(texto);
